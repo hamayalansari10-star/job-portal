@@ -782,6 +782,6 @@ Your support helps motivate further development!
 
 **Find Opportunities. Discover Talent. Build Careers.**
 
-Made with ❤️ using the MERN Stack.
+
 
 </div>
