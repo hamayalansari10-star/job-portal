@@ -173,7 +173,7 @@ This is currently a solo learning/portfolio project, but suggestions and feedbac
 ## 📬 Contact
 
 **Your Name**
-📧 your.email@example.com · 🔗 [LinkedIn])  https://www.linkedin.com/in/hamayal-ansari-a12b10371/?skipRedirect=true· 💻 [GitHub]https://github.com/hamayalansari10-star
+📧 hamayalansari10@gmail.com· 🔗 [LinkedIn])  https://www.linkedin.com/in/hamayal-ansari-a12b10371/?skipRedirect=true· 💻 [GitHub]https://github.com/hamayalansari10-star
 
 ---
 
