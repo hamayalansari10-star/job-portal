@@ -8,11 +8,11 @@
 
 <br/>
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express.js-5-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express.js-5-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 <br/>
 
@@ -91,7 +91,7 @@ Employers can:
 # ✨ Core Features
 
 | Feature                        | Description                                                       |
-| ------------------------------ | ----------------------------------------------------------------- |
+| ------------------------------ | ------------------------------------------------------------------ |
 | 🔐 **JWT Authentication**      | Secure registration and login using JSON Web Tokens               |
 | 👥 **Role-Based Access**       | Separate permissions and dashboards for Job Seekers and Employers |
 | 📋 **Job Management**          | Create, update, delete and manage job postings                    |
@@ -523,9 +523,9 @@ Make sure you have installed:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/jobconnect.git
+git clone https://github.com/hamayalansari10-star/job-portal.git
 
-cd jobconnect
+cd job-portal
 ```
 
 ---
@@ -604,18 +604,32 @@ http://localhost:5000
 
 # 📸 Screenshots
 
-> 🚧 Screenshots will be added as the UI development progresses.
+<div align="center">
 
-Planned screenshots:
+**Home Page**
+<img src="screenshots/01-home.png" width="800" alt="Home page hero section"/>
 
-* Home Page
-* Job Listings
-* Job Details
-* Login / Register
-* Job Seeker Dashboard
-* Employer Dashboard
-* Application Management
-* Mobile Responsive Views
+<br/><br/>
+
+**Call to Action Section**
+<img src="screenshots/02-home-cta.png" width="800" alt="Home page CTA"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%"><b>Sign Up</b><br/><img src="screenshots/03-register.png" width="400" alt="Register page"/></td>
+<td width="50%"><b>Sign In</b><br/><img src="screenshots/04-login.png" width="400" alt="Login page"/></td>
+</tr>
+<tr>
+<td width="50%"><b>Job Details</b><br/><img src="screenshots/05-job-details.png" width="400" alt="Job details page"/></td>
+<td width="50%"><b>Apply with Resume Upload</b><br/><img src="screenshots/06-apply.png" width="400" alt="Apply page"/></td>
+</tr>
+</table>
+
+</div>
+
+More screenshots (dashboards, mobile views) will be added as development progresses.
 
 ---
 
@@ -645,47 +659,47 @@ Storage  → Cloudinary
 
 ### Phase 2 — Backend
 
-* [ ] Express server setup
-* [ ] MongoDB connection
-* [ ] User model
-* [ ] JWT authentication
-* [ ] Password hashing
-* [ ] Role-based authorization
-* [ ] Job APIs
-* [ ] Application APIs
-* [ ] Resume upload
+* [x] Express server setup
+* [x] MongoDB connection
+* [x] User model
+* [x] JWT authentication
+* [x] Password hashing
+* [x] Role-based authorization
+* [x] Job APIs
+* [x] Application APIs
+* [x] Resume upload
 * [ ] API validation
 
 ### Phase 3 — Frontend
 
-* [ ] React setup
-* [ ] Responsive navigation
-* [ ] Authentication pages
-* [ ] Job listing page
-* [ ] Job details page
-* [ ] Search & filtering
-* [ ] Application page
-* [ ] Job Seeker dashboard
-* [ ] Employer dashboard
+* [x] React setup
+* [x] Responsive navigation
+* [x] Authentication pages
+* [x] Job listing page
+* [x] Job details page
+* [x] Search & filtering
+* [x] Application page
+* [x] Job Seeker dashboard
+* [x] Employer dashboard
 
 ### Phase 4 — Advanced Features
 
 * [ ] Socket.io notifications
-* [ ] Application status system
+* [x] Application status system
 * [ ] Advanced filtering
 * [ ] Profile management
 * [ ] Employer company profiles
 * [ ] Pagination
-* [ ] Loading states
-* [ ] Error handling
+* [x] Loading states
+* [x] Error handling
 
 ### Phase 5 — Deployment
 
-* [ ] Production environment variables
+* [x] Production environment variables
 * [ ] Deploy backend
-* [ ] Deploy frontend
-* [ ] Connect MongoDB Atlas
-* [ ] Configure Cloudinary
+* [x] Deploy frontend
+* [x] Connect MongoDB Atlas
+* [x] Configure Cloudinary
 * [ ] Test production APIs
 * [ ] Final UI optimization
 
@@ -762,7 +776,7 @@ If you find a bug or have an idea for improvement, feel free to open an issue.
 
 Building projects, learning modern technologies, and continuously improving as a developer.
 
-[LinkedIn] https://www.linkedin.com/in/hamayal-ansari-a12b10371/?skipRedirect=true · [GitHub] https://github.com/hamayalansari10-star
+[LinkedIn](https://www.linkedin.com/in/hamayal-ansari-a12b10371/?skipRedirect=true) · [GitHub](https://github.com/hamayalansari10-star)
 
 </div>
 
@@ -781,7 +795,5 @@ Your support helps motivate further development!
 ### 💼 JobConnect
 
 **Find Opportunities. Discover Talent. Build Careers.**
-
-
 
 </div>
